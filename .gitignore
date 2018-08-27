@@ -287,3 +287,6 @@ playground.xcworkspace
 
 
 # End of https://www.gitignore.io/api/osx,swift,carthage,cocoapods,objective-c,appcode+iml,ruby
+
+### Custom
+secret/
