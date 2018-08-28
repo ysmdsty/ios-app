@@ -6,7 +6,10 @@ target 'ios-app' do
   use_frameworks!
 
   # Pods for ios-app
-  pod 'Firebase/Core', '~> 5.4'
+  pod 'Firebase/Core', '~> 5.6'
+  pod 'Firebase/Auth', '~> 5.6'
+  pod 'Firebase/Firestore', '~> 5.6'
+  pod 'Result', '~> 4.0.0'
 
   target 'ios-appTests' do
     inherit! :search_paths
