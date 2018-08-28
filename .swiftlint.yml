@@ -1,0 +1,7 @@
+disabled_rules:
+  - force_cast
+excluded:
+  - Carthage
+  - Pods
+
+line_length: 150
